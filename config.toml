@@ -1,0 +1,30 @@
+baseurl = "https://kazingakatz.com/"
+title = "Kazinga Katz"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+
+[params]
+  description = '<!--[-->We are a small home based Savannah cattery in beautiful Bozeman MT. <!--]-->'
+  logo = "fa-paw"
+  copyright = "Kazinga Katz"
+
+ 
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/kazingakatz/"
+
+ 
+ 
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+
+title = "Kazinga Katz" 
